@@ -24,8 +24,8 @@
   <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave"/>
   <img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=synthwave" />
  <br>
-  <img width="45%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
-  <img width="54%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave" />
+  <img width="46%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
+  <img width="53%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave" />
  <br>
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YgorIsmael&theme=synthwave" />
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgorIsmael&theme=synthwave" />
