@@ -31,6 +31,10 @@
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgorIsmael&theme=synthwave" />
 </div>
 <div style="display: inline_block">
+  
+![slaaaa](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)|![](https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave)
+  
+
 
 <div align="center">
 <h2 align="centre"><b>Languages</b></h2>
