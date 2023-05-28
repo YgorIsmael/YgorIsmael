@@ -4,7 +4,7 @@
 
 <b>Welcome to my github profile!</b>
 
-<b>Hi! My name is Ygor, I'm a begginer Back-End developer. I'm a student of Computer Science at the São Paulo State University (Unesp), I'm trying to improve my skills at coding and now I consider myself a begginer Back-End developer. I am currently studying C/C++ and Node.JS.</b>
+<b>Hi! My name is Ygor, I'm a begginer Back-End developer. I'm a student of Computer Science at the São Paulo State University (Unesp), I'm trying to improve my skills at coding. I am currently studying C/C++ and Node.JS.</b>
 
 <div align="center">
 <h2 align="centre"><b>Contact</b></h2>
