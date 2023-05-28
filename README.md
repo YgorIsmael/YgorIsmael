@@ -7,6 +7,18 @@
 <b>Hi! My name is Ygor, I'm a begginer Back-End developer. I'm a student of Computer Science at the São Paulo State University (Unesp), I'm trying to improve my skills at coding. I am currently studying C/C++ and Node.JS.</b>
 
 <div align="center">
+<h2 align="centre"><b>Languages</b></h2>
+<code><img height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+<code><img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+<code><img height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+</div>
+<div style="display: inline_block">
+
+<div align="center">
 <h2 align="centre"><b>Contact</b></h2>
   <a href = "ygorismael6@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></code>
   </a>
@@ -25,19 +37,6 @@
   <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave" />
   <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YgorIsmael&theme=synthwave" />
   <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgorIsmael&theme=synthwave" />
-</div>
-<div style="display: inline_block">
-
-
-<div align="center">
-<h2 align="centre"><b>Languages</b></h2>
-<code><img height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
-<code><img height="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-<code><img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-<code><img height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 </div>
 <div style="display: inline_block">
   
