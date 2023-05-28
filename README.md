@@ -1,11 +1,5 @@
 # Welcome!
-
- 
-
 ## I'm Ygor!
-
- 
-
 :computer: I'm Front-End Developer!
 
 :house_with_garden: I’m from Brazil.
@@ -14,7 +8,6 @@
 
 :outbox_tray: 2023 Goals: become better at C++ and Node.JS.
 
- 
 <div align="center">
 <br><h1 align="centre"><b>About me</b></h1>
   <a href = "ygorismael6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,12 +16,11 @@
  </a>
 </div>
 <div style="display: inline_block"><br>
-
-
+ 
 <div align="center">
 <br><h1 align="centre"><b>Languages and Tools</b></h1>
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave"/>
-  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave" />
+  <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
  <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=synthwave" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave" />
