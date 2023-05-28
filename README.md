@@ -49,7 +49,7 @@
   
 
 <div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
+<h2 align="centre"><b>Visitors Count</b></h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YgorIsmael}/count.svg" /></p> 
 <br>
 </div>
