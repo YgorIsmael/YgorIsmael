@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 [![YgorIsmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorIsmael)](https://github.com/YgorIsmael/github-readme-stats)
-[![YgorIsmael's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={YgorIsmael}&theme={dracula})
+[![YgorIsmael's aaa](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={YgorIsmael}&theme={dracula})
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
