@@ -10,14 +10,12 @@
 
 <div align="center">
 <h2 align="centre"><b>About me</b></h2>
-  <code>
-  <a href = "ygorismael6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href = "ygorismael6@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></code>
   </a>
-    <a id="twitter" href="https://twitter.com/YgorIsm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a id="twitter" href="https://twitter.com/YgorIsm"><code><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></code>
+  </a>
+  <a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><code><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></code>
     </a>
-    <a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </code>
 </div>
 <div style="display: inline_block">
  
