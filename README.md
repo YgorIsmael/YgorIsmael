@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>## Languages and Tools</b></p>  
+<br><h1 align="centre"><b>Languages and Tools</b></h1>  
 <p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
  </p> 
 <br>
