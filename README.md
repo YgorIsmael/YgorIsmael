@@ -9,7 +9,7 @@
 :outbox_tray: 2023 Goals: become better at C++ and Node.JS.
 
 <div align="center">
-<h2 align="centre"><b>About me</b></h2>
+<h2 align="centre"><b>Contact</b></h2>
   <a href = "ygorismael6@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></code>
   </a>
   <a id="twitter" href="https://twitter.com/YgorIsm"><code><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></code>
