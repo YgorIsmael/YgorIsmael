@@ -1,16 +1,10 @@
 <div align="center">
-<h1 align="centre"><b>Wlcome!</b></h1>
+<h1 align="centre"><b>Welcome!</b></h1>
 </div>
 
-## I'm Ygor!
+<b>Welcome to my github profile!</b>
 
-:computer: I'm a Back-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning C, C++, Node.js and MySQL.
-
-:outbox_tray: 2023 Goals: become better at C++ and Node.JS.
+<b>Hi! My name is Ygor, I'm a begginer Back-End developer. I'm a student of Computer Science at the São Paulo State University (Unesp), I'm trying to improve my skills at coding and now I consider myself a begginer Back-End developer. I am currently studying C/C++ and Node.JS.</b>
 
 <div align="center">
 <h2 align="centre"><b>Contact</b></h2>
