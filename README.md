@@ -15,11 +15,14 @@
 :outbox_tray: 2023 Goals: become better at C++ and Node.JS.
 
  
-
-## About me
-<a href = "ygorismael6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a id="twitter" href="https://twitter.com/YgorIsm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div align="center">
+<br><h1 align="centre"><b>About me</b></h1>
+  <a href = "ygorismael6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a id="twitter" href="https://twitter.com/YgorIsm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+</div>
+<div style="display: inline_block"><br>
 
 
 <div align="center">
@@ -31,10 +34,6 @@
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave" />
 </div>
 <div style="display: inline_block"><br>
-
-[![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
-[![YgorIsmael's Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
