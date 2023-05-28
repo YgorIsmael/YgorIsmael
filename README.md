@@ -22,7 +22,13 @@
 <a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-## Languages and Tools
+<div align="center">
+<br><p align="centre"><b>## Languages and Tools</b></p>  
+<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
+ </p> 
+<br>
+</div>
+
 [![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
 [![YgorIsmael's Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
