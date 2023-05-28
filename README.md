@@ -36,4 +36,10 @@
 
 - Enjoy it!! o/
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HttpEduardo}/count.svg" /></p> 
+<br>
+</div>
+
 ----------------------------------------------------------------------------------
