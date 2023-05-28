@@ -15,7 +15,7 @@
   <a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  
 <div align="center">
 <br><h2 align="centre"><b>Stats</b></h2>
@@ -28,7 +28,7 @@
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YgorIsmael&theme=synthwave" />
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YgorIsmael&theme=synthwave" />
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 <div align="center">
 <br><h2 align="centre"><b>Languages</b></h2>
@@ -40,7 +40,7 @@
 <code><img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <code><img height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 - Thanks for visiting.
 
