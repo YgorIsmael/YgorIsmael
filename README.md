@@ -21,7 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygor-ismael/)](https://www.linkedin.com/in/ygor-ismael/)
 
 ## Languages and Tools
-[![YgorIsmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorIsmael)](https://github.com/YgorIsmael/github-readme-stats)
+[![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={YgorIsmael}&theme={dracula})
 [![YgorIsmael's aaa](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={YgorIsmael}&theme={dracula})
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
