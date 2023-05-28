@@ -1,12 +1,14 @@
-# Welcome!
+<div align="center">
+<h1 align="centre"><b>Wlcome!</b></h1>
+</div>
 ## I'm Ygor!
-:computer: I'm a Back-End Developer!
+##:computer: I'm a Back-End Developer!
 
-:house_with_garden: I’m from Brazil.
+##:house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning C, C++, Node.js and MySQL.
+##:books: I’m currently learning C, C++, Node.js and MySQL.
 
-:outbox_tray: 2023 Goals: become better at C++ and Node.JS.
+##:outbox_tray: 2023 Goals: become better at C++ and Node.JS.
 
 <div align="center">
 <h2 align="centre"><b>Contact</b></h2>
