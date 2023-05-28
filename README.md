@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning C, C++, Node.js and MySQL.
 
 :outbox_tray: 2023 Goals: become better at C++ and Node.JS.
 
