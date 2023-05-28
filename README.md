@@ -23,12 +23,9 @@
 
 
 <div align="center">
-<br><h1 align="centre"><b>Languages and Tools</b></h1>  
-<p align="center">
- <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
- <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave" />
-</p>
-<br>
+<br><h1 align="centre"><b>Languages and Tools</b></h1>
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave"/>
+  <img width="41%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave" />
 </div>
 
 [![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
