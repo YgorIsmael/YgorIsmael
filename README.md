@@ -21,7 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygor-ismael/)](https://www.linkedin.com/in/ygor-ismael/)
 
 ## Languages and Tools
-[![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)]
+[![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats
 [![YgorIsmael's Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave)]
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=YgorIsmael)]
 
