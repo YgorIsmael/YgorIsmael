@@ -22,8 +22,8 @@
 
 ## Languages and Tools
 [![YgorIsmael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
-[![YgorIsmael's Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave)]
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=YgorIsmael)]
+[![YgorIsmael's Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave)](github.com/YgorIsmael/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=YgorIsmael)](github.com/YgorIsmael/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
