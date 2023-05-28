@@ -24,7 +24,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygor-ismael/)](https://www.linkedin.com/in/ygor-ismael/)
 
-<code><img height= "20"src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 
 - Thanks for visiting.
 
