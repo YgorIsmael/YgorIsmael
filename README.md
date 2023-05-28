@@ -46,13 +46,13 @@
   
 <div align="center">
 <h2 align="centre"><b>Trophies</b></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=YgorIsmael&theme=synthwave&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=YgorIsmael&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /><br><br>
 <div style="display: inline_block">
   
 
 <div align="center">
 <h2 align="centre"><b>Visitors Count</b></h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YgorIsmael}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/YgorIsmael/count.svg" /></p> 
 <br>
 </div>
 
