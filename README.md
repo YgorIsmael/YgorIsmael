@@ -41,13 +41,15 @@
 <code><img height="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 </div>
 <div style="display: inline_block">
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+  
+<div align="center">
+<h2 align="centre"><b>Trophies</b></h2>
+  <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=YgorIsmael&theme=synthwave" />
+<div style="display: inline_block">
+  
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YgorIsmael}/count.svg" /></p> 
 <br>
 </div>
