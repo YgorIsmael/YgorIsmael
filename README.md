@@ -25,8 +25,8 @@
 <div align="center">
 <br><h1 align="centre"><b>Languages and Tools</b></h1>  
 <p align="center">
- <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave" />
+ <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
+ <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave" />
 </p>
 <br>
 </div>
