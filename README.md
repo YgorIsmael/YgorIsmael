@@ -44,7 +44,7 @@
   
 <div align="center">
 <h2 align="centre"><b>Trophies</b></h2>
-  <img width="49%" height="195px" src="https://github-profile-trophy.vercel.app/?username=YgorIsmael&theme=synthwave" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YgorIsmael&theme=synthwave&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /><br><br>
 <div style="display: inline_block">
   
 
