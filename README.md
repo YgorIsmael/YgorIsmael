@@ -33,7 +33,7 @@
 <div align="center">
 <h2 align="centre"><b>Stats</b></h2>
   <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YgorIsmael&theme=synthwave"/>
-  <img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&theme=synthwave" />
+  <img width="33%" height="195px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorIsmael&layout=compact&theme=synthwave)" />
   <img width="45.7%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YgorIsmael&theme=synthwave" />
   <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=YgorIsmael&theme=synthwave" />
   <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YgorIsmael&theme=synthwave" />
