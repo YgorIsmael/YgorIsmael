@@ -22,8 +22,6 @@
 <h2 align="centre"><b>Contact</b></h2>
   <a href = "ygorismael6@gmail.com"><code><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></code>
   </a>
-  <a id="linkedin" href="https://www.linkedin.com/in/Ygor-Ismael"><code><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></code>
-    </a>
 </div>
 <div style="display: inline_block">
 
